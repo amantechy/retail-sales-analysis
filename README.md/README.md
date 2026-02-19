@@ -1,4 +1,8 @@
-# Retail Sales Analysis Project
+
+## Retail Sales Analysis (Superstore Dataset)
+
+A Python-based exploratory data analysis project to identify sales trends, profitable categories, and top-performing products.
+
 
 ## Objective
 This project analyzes the Superstore retail dataset to identify sales trends, profitable categories, and key customer insights using Python and Pandas.
@@ -32,19 +36,6 @@ This project analyzes the Superstore retail dataset to identify sales trends, pr
 - Top Products and Customers Analysis
 - Category-wise and Region-wise Performance
 - Profit Margin Calculation
-
----
-
-## Visualizations
-
-### Monthly Sales Trend
-![Monthly Sales Trend](visuals/monthly_sales_trend.png)
-
-### Sales by Category
-![Sales by Category](visuals/sales_by_category.png)
-
-### Profit by Category
-![Profit by Category](visuals/profit_by_category.png)
 
 ---
 
